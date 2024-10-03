@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ProductStore</string>
+    <string name="name">Магазин продуктов</string>
+    <string name="nameChanged">Имя</string>
+    <string name="priceChanged">Цена</string>
+    <string name="descriptionChanged">Описание</string>
+    <string name="createShop">Создать магазин</string>
+    <string name="save">Сохранить</string>
+    <string name="name_product">Название продукта</string>
+    <string name="description">Краткое описание продукта</string>
+    <string name="image">Фото продукта</string>
+    <string name="add">Добавить</string>
+    <string name="price">Цена продукта</string>
+</resources>
